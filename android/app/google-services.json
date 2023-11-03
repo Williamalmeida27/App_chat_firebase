@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547283315764",
+    "project_id": "william-appfirebase",
+    "storage_bucket": "william-appfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547283315764:android:5a9a1383205f2c731b6e61",
+        "android_client_info": {
+          "package_name": "com.appfirebase.appfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_s5Ybj4XzBbP23VFYJ9GhtaWrSKJrSjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
